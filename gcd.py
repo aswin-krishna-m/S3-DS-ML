@@ -8,3 +8,13 @@ def gcd(m,n):
 a= int(input("Enter first number: "))
 b= int(input("Enter second number: "))
 print("GCD is : ", gcd(a,b))
+
+
+"""
+OUTPUT
+
+Enter first number: 8
+Enter second number: 6
+GCD is :  2
+
+"""
