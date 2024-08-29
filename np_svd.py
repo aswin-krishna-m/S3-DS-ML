@@ -29,7 +29,7 @@ Filling diagonal with S matrix
  [[5.4649857  0.        ]
  [0.         0.36596619]]
 Reconstructed matrix
- [[5.4649857  0.        ]
- [0.         0.36596619]]
+ [[1. 2.]
+ [3. 4.]]
  
 '''
