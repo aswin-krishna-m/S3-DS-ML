@@ -34,7 +34,7 @@ print(f"\n Predicted class: {prediction[0]}") # print the predicted class of the
 
 
 
-          precision    recall  f1-score   support
+             precision    recall  f1-score   support
 
       Setosa       1.00      1.00      1.00         9
   Versicolor       0.92      1.00      0.96        12
@@ -45,7 +45,7 @@ print(f"\n Predicted class: {prediction[0]}") # print the predicted class of the
 weighted avg       0.97      0.97      0.97        30
 
 Accuracy :  0.9666666666666667
-   Real Values Predicted Values
+   Real Values  Predicted Values
 0       Setosa           Setosa
 1   Versicolor       Versicolor
 2    Virginica        Virginica
